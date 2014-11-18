@@ -27,8 +27,9 @@
     * ImageOptim
     * SVG optimised
     * 8-bit PNG with alpha
- * Test
-   * WebPagetest
+ * Performance
+   * WebPagetest Speed Index value under 1000
+   * HTML, CSS & JS in first 14KB
 
 ## Reference
 http://validator.w3.org/  
@@ -38,3 +39,4 @@ http://www.w3.org/TR/wai-aria/roles
 http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile  
 http://cssmediaqueries.com/
 http://www.webpagetest.org/
+http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/
