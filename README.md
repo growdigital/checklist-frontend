@@ -27,9 +27,9 @@
     * ImageOptim
     * SVG optimised
     * 8-bit PNG with alpha
- * Performance
-   * WebPagetest Speed Index value under 1000
-   * HTML, CSS & JS in first 14KB
+* Performance
+  * WebPagetest Speed Index value under 1000
+  * HTML, CSS & JS in first 14KB
 
 ## Reference
 http://validator.w3.org/  
